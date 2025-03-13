@@ -12,3 +12,5 @@ function isPalindrome(word) {
   return firstHalf.toLowerCase() === secondHalf.toLowerCase();
 }
 console.log(isPalindrome(-121)); //
+// 
+

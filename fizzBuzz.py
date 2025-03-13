@@ -17,7 +17,4 @@ def fizzBuzz(totalNumber):
             resultList.append(number)
     return resultList
 
-
-
-
 print(fizzBuzz(15));
